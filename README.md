@@ -1,4 +1,4 @@
-### Online Market for High-Quality Special Products
+# Online Market for High-Quality Special Products
 This is a web application for an online market that sells high-quality special products. The application is built using ReactJS and Stripe for payment processing.
 
 ## Features
